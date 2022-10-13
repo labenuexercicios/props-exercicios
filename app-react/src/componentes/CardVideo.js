@@ -12,7 +12,7 @@ export function CardVideo(props) {
       <div className="box-pagina-principal" onClick={reproduzVideo}>
         <img src="https://picsum.photos/400/400?a=1 " alt="" />
         <h4>Titulo:{titulo}</h4>
-        <InfoUsuarios nome= "GIovanna"/>
+        <InfoUsuarios nome= "Giovanna"/>
 
       </div>
     </div>

@@ -5,37 +5,37 @@ import CardVideo from "./componentes/CardVideo";
 
 
  export default function App() {
-  const objeto1 = {
+  const video1 = {
     titulo:"Video 1",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto2 = {
+  const video2 = {
     titulo:"Video 2",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto3 = {
+  const video3 = {
     titulo:"Video 3",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto4 = {
+  const video4 = {
     titulo:"Video 4",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto5 = {
+  const video5 = {
     titulo:"Video 5",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto6 = {
+  const video6 = {
     titulo:"Video 6",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto7 = {
+  const video7 = {
     titulo:"Video 7",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
-  const objeto8 = {
+  const video8 = {
     titulo:"Video 8",
-    autor: "Mailson",
+    autor: "Giovanna",
   }
 
 
@@ -60,15 +60,14 @@ import CardVideo from "./componentes/CardVideo";
           </nav>
 
           <section className="painel-de-videos">
-            <CardVideo objeto1={objeto1}/>
-            <CardVideo objeto2={objeto2}/>
-            <CardVideo objeto3={objeto3}/>
-            <CardVideo objeto4={objeto4}/>
-            <CardVideo objeto4={objeto5}/>
-            <CardVideo objeto4={objeto6}/>
-            <CardVideo objeto4={objeto7}/>
-            <CardVideo objeto4={objeto8}/>
-
+            <CardVideo video1={video1}/>
+            <CardVideo video2={video2}/>
+            <CardVideo video3={video3}/>
+            <CardVideo video4={video4}/>
+            <CardVideo video4={video5}/>
+            <CardVideo video4={video6}/>
+            <CardVideo video4={video7}/>
+            <CardVideo video4={video8}/>
           </section>
           
         </main>
