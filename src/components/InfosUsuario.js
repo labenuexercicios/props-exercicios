@@ -12,4 +12,4 @@ const InfosUsuario = (props) =>{
     )
 }
 
-export default InfosUsuario 
+export default InfosUsuario
