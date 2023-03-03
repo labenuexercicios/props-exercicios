@@ -15,7 +15,7 @@ Vamos utilizar o [**LabeTube**, da aula anterior](https://github.com/labenuexerc
 
 Para executar este exercício, você pode criar uma nova aplicação React, como foi visto na aula passada, ou utilizar o link abaixo para ir ao template no **CodeSandbox**. Este template para exatamente onde o exercício da última aula acaba.
 
-[**Template do CodeSandbox**](https://codesandbox.io/s/template-exercicio-props-b6037t?file=/src/App.js)
+[**Template do CodeSandbox**](https://codesandbox.io/s/template-exercicio-props-lhggdm)
 
 Caso queira usar uma aplicação React, rode `npm install` neste projeto, para baixar as dependências e poder executá-lo.
 
