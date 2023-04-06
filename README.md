@@ -27,7 +27,3 @@ Passe essas informações por props para o seu componente CardVideo, criado na a
 # Exercício 2
 Agora, no componente pai de InfosUsuario, componente também criado na aula passada. Passe as informações do usuário por props.
 
-## Informações úteis sobre o assunto
-[Props | Documentação do React](https://www.geeksforgeeks.org/reactjs-components/)
-[Componentes e Props | Labenu](https://www.loom.com/share/f2a991fc9d4d49f8aeb068bee05b46b9)
-
