@@ -10,7 +10,7 @@ Caso não lembre como funciona o processo de entrega, clique [**aqui**](https://
 
 ## Como eu vou executar os exercícios?
 
-Vamos utilizar o [**LabeTube**, da aula anterior](https://github.com/labenuexercicios/componentes-exercicio). Nesse exercício vamos tornar nosso projeto mais dinâmico, alterando os vídeos para que deixem de ser o mesmo vídeo, e seus valores sejam criados e passados por props.
+Vamos utilizar o **LabeTube**, da aula anterior. Nesse exercício vamos tornar nosso projeto mais dinâmico, alterando os vídeos para que deixem de ser o mesmo vídeo, e seus valores sejam criados e passados por props.
 
 
 Para executar este exercício, você pode criar uma nova aplicação React, como foi visto na aula passada, ou utilizar o link abaixo para ir ao template no **CodeSandbox**. Este template para exatamente onde o exercício da última aula acaba.
